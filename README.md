@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/ahmadfadilfatan/ahmadfadilfatan/master/readme_header.png "Header")]
+![Header](https://raw.githubusercontent.com/ahmadfadilfatan/ahmadfadilfatan/master/readme_header.png "Header")
 <!--(https://martinheinz.dev/)-->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ahmadfadilfatan/ahmadfadilfatan/master/wave.gif" width="30px" height="30px" />
